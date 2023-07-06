@@ -18,6 +18,7 @@ I am currently studying at 42 Barcelona, part of the 42 Network, considered to b
 | [get_next_line](https://github.com/l0w3/get_next_line) | [instructions](https://github.com/l0w3/get_next_line/blob/master/get_next_line.pdf) | [![alrodri2's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2913285)](https://github.com/JaeSeoKim/badge42) |
 | [FdF](https://github.com/l0w3/FdF) | [instructions](https://github.com/l0w3/FdF/blob/master/FdF.pdf) | [![alrodri2's 42 FdF Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/3018936)](https://github.com/JaeSeoKim/badge42)|
 | [minitalk](https://github.com/l0w3/minitalk) | [instructions](https://github.com/l0w3/minitalk/blob/master/minitalk.pdf) | [![alrodri2's 42 minitalk Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/3083652)](https://github.com/JaeSeoKim/badge42) |
+| [push_swap](https://github.com/l0w3/push_swap) | [instructions](https://github.com/l0w3/push_swap/blob/master/push_swap.pdf) | Mark |
 
 ## Education: UNED
 
