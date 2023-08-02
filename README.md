@@ -75,6 +75,8 @@ As a competitive student and someone who loves challenges, I am always signing u
 
 Cybersecurity is the field of computer science I like the most. It requires deep understanding on almost every topic of computer science in order to know how things can be used in a way they are not intended to. It also requires to think creatively 🎨 to find those unexpected behaviours, or to fix them 🔧. This, and many other things are what makes me love so much cybersecurity and thus, it deserves a space here. Those are some of the programming projects I developed (will be updated since most of them have to be recovered from a broken computer) 💻
 
+I also have a blog! You can check it out [here](https://l0w3.github.io/about)
+
 <details>
   <summary>
     SecureFolders
