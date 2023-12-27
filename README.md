@@ -12,13 +12,12 @@ I am currently studying at 42 Barcelona, part of the 42 Network, considered to b
 
 | 42 Project | Subject | Grade| 
 |----------- | ------- |------|
-| [libft](https://github.com/AlexadeZ17/libft)      | [intructions](https://github.com/AlexadeZ17/libft/blob/master/libft.pdf) |   [![alrodri2's 42 Libft Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2788170)](https://github.com/JaeSeoKim/badge42)|
-| [ft_printf](https://github.com/AlexadeZ17/ft_printf)  | [instructions](https://github.com/AlexadeZ17/ft_printf/blob/master/ft_printf.pdf) |   [![alrodri2's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2837193)](https://github.com/JaeSeoKim/badge42) |
-| [born2beroot](https://github.com/AlexadeZ17/born2beroot) | [instructions](https://github.com/AlexadeZ17/born2beroot/blob/master/born2beroot.pdf) |[![alrodri2's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2864507)](https://github.com/JaeSeoKim/badge42) |
-| [get_next_line](https://github.com/l0w3/get_next_line) | [instructions](https://github.com/l0w3/get_next_line/blob/master/get_next_line.pdf) | [![alrodri2's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/2913285)](https://github.com/JaeSeoKim/badge42) |
-| [FdF](https://github.com/l0w3/FdF) | [instructions](https://github.com/l0w3/FdF/blob/master/FdF.pdf) | [![alrodri2's 42 FdF Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/3018936)](https://github.com/JaeSeoKim/badge42)|
-| [minitalk](https://github.com/l0w3/minitalk) | [instructions](https://github.com/l0w3/minitalk/blob/master/minitalk.pdf) | [![alrodri2's 42 minitalk Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/3083652)](https://github.com/JaeSeoKim/badge42) |
-| [push_swap](https://github.com/l0w3/push_swap) | [instructions](https://github.com/l0w3/push_swap/blob/master/push_swap.pdf) | [![alrodri2's 42 push_swap Score](https://badge42.vercel.app/api/v2/cla8188tr00060gjw9w82ppdu/project/3150824)](https://github.com/JaeSeoKim/badge42) |
+| [libft](https://github.com/AlexadeZ17/libft)      | [intructions](https://github.com/AlexadeZ17/libft/blob/master/libft.pdf) |  100 |
+| [ft_printf](https://github.com/AlexadeZ17/ft_printf)  | [instructions](https://github.com/AlexadeZ17/ft_printf/blob/master/ft_printf.pdf) |   100 |
+| [born2beroot](https://github.com/AlexadeZ17/born2beroot) | [instructions](https://github.com/AlexadeZ17/born2beroot/blob/master/born2beroot.pdf) | 125 |
+| [get_next_line](https://github.com/l0w3/get_next_line) | [instructions](https://github.com/l0w3/get_next_line/blob/master/get_next_line.pdf) | 100 |
+| [minitalk](https://github.com/l0w3/minitalk) | [instructions](https://github.com/l0w3/minitalk/blob/master/minitalk.pdf) | 100 |
+| [push_swap](https://github.com/l0w3/push_swap) | [instructions](https://github.com/l0w3/push_swap/blob/master/push_swap.pdf) | 86
 
 ## Education: UNED
 
