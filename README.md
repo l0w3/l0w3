@@ -2,7 +2,7 @@
 
 ## whoami
 
-I am Álex Rodríguez Pérez, an 18 year old Computer Science student who has always been playing around with computers and programming. In my github you will find everything that I do during my degree, Hackathons, Personal projects and much more! If you like what I do feel free to give some stars, follow me or contact me if you need something!
+I am Álex Rodríguez Pérez, an 19 year old Cybersecurity student who has always been playing around with computers and programming. In my github you will find everything that I do during my degree, Hackathons, Personal projects and much more! If you like what I do feel free to give some stars, follow me or contact me if you need something!
 
 ## Education: 42 Barcelona
 
@@ -19,18 +19,9 @@ I am currently studying at 42 Barcelona, part of the 42 Network, considered to b
 | [minitalk](https://github.com/l0w3/minitalk) | [instructions](https://github.com/l0w3/minitalk/blob/master/minitalk.pdf) | 100 |
 | [push_swap](https://github.com/l0w3/push_swap) | [instructions](https://github.com/l0w3/push_swap/blob/master/push_swap.pdf) | 86
 
-## Education: UNED
+## Education: UNIR
 
-Aside from studying Software Development at 42 Barcelona, I am also studying Computer Science at UNED, the Online University of Spain. Here you can see some of the code I write on exercices or to understand better how things work. Not too interesting tho 🤷‍♂️
-
-<details>
-  <summary>
-    ft_append
-  </summary>
-
-👉 While I was in a Data Science Programming class, the teacher explained lists in python, and how we could append data at the end of them. I considered interesting to re-create this function on C in order to understand how it worked this function under the hood ⚙️. The following [gist](https://gist.github.com/AlexadeZ17/002652b040f3ba119a94182afca60caf) shows the code I wrote.
- 
-</details>
+Aside from studying Software Development at 42 Barcelona, I am also studying UNIR's Cybersecurity Major, where I am learning about cybersecurity formally. In this set of Repositories I'll be uploading some tasks that I find interesting or even some notes, still thinking about it.
   
 
 ## Projects and Competitions
