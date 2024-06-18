@@ -2,7 +2,7 @@
 
 ## whoami
 
-I am Álex Rodríguez Pérez, an 19 year old Cybersecurity student who has always been playing around with computers and programming. In my github you will find everything that I do during my degree, Hackathons, Personal projects and much more! If you like what I do feel free to give some stars, follow me or contact me if you need something!
+I am Álex Rodríguez Pérez, an 20 year old Cybersecurity student who has always been playing around with computers and programming. In my github you will find everything that I do during my degree, Hackathons, Personal projects and much more! If you like what I do feel free to give some stars, follow me or contact me if you need something!
 
 ## Education: 42 Barcelona
 
