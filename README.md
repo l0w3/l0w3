@@ -4,6 +4,10 @@
 
 I am Álex Rodríguez Pérez, an 20 year old Cybersecurity student who has always been playing around with computers and programming. In my github you will find everything that I do during my degree, Hackathons, Personal projects and much more! If you like what I do feel free to give some stars, follow me or contact me if you need something!
 
+## Education: Self Learning
+
+As a super curious person, I am currently learning about Low Level computer science, orientated towards cybersecurity. This includes binary exploitation, malware development, hardware hacking and many more things.
+
 ## Education: 42 Barcelona
 
 I am currently studying at 42 Barcelona, part of the 42 Network, considered to be the most innovative coding school worldwide. Here you can see how am I doing there👇
