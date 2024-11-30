@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 Lastly I've been very interested in learning about low level computer science, specially what revolves around Operating Systems and Hardware. For this purpose I am learning from the great tutorials from (asmtutor)[https://asmtutor.com/], the amazing labs of (pwn.college)[https://pwn.college/] and from the lectures (and book) (OSTEP)[https://pages.cs.wisc.edu/~remzi/OSTEP/].
 
 The following links will bring you to the repositories where I upload my work related to this resources
-- (asmtutor)[]: ![](https://geps.dev/progress/8)
-- (pwn.college)[]: ![](https://geps.dev/progress/20)
-- (kfs)[]: ![](https://geps.dev/progress/1)
+- [](asmtutor): ![](https://geps.dev/progress/8)
+- [](pwn.college): ![](https://geps.dev/progress/20)
+- [](kfs): ![](https://geps.dev/progress/1)
 
 As a pentester and aspiring security researcher, I am loking towards applying all this skills to finding new bugs of way of exploiting the existing ones. That's why I also research about vulnerabilities and try to explain the research as well as the exploit path in a repo called (N-daysResearch)[]. Check it out if you want to see my knowledge applyed to real problems
 
