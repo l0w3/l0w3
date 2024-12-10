@@ -1,4 +1,4 @@
-## /home/l0w3 👋
+## /home/l0w3 🦁
 
 This is my home repository. Here you will find the most important projects I am working on or worked on in the past, plus a bit of info about myself. Feel free to dive into my repositories if you want to learn more about me :D
 <!--
