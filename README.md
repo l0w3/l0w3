@@ -38,6 +38,6 @@ My journey on Computer Science started as for many others with programming. I le
 
 When I becam interested in cybersecurity I oriented my developpment towards it. Below are some repositoies with code oriented towards cybersecurity such as malware development, defensive tools, etc.
 - [Secure Folders](https://github.com/l0w3/SecureFolders)
-- [goEnum](https://github.com/l0w3/goEnum/blob/main/main.go)
+- [goEnum](https://github.com/l0w3/goEnum/)
 - [Process Injection](https://github.com/l0w3/process-injection)
   
