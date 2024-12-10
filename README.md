@@ -1,6 +1,6 @@
 ## /home/l0w3 👋
 
-This is my home repository. Here you will find the most important projects I am working on or worked on in the past, plus a bit of info about myself. Feel free to dive into my repositories if you want to learn more
+This is my home repository. Here you will find the most important projects I am working on or worked on in the past, plus a bit of info about myself. Feel free to dive into my repositories if you want to learn more about me :D
 <!--
 **l0w3/l0w3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,12 +21,23 @@ Here are some ideas to get you started:
 Lastly I've been very interested in learning about low level computer science, specially what revolves around Operating Systems and Hardware. For this purpose I am learning from the great tutorials from [asmtutor](https://asmtutor.com/), the amazing labs of [pwn.college](https://pwn.college/) and from the lectures (and book) [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 The following links will bring you to the repositories where I upload my work related to this resources
-- [](asmtutor): ![](https://geps.dev/progress/8)
-- [](pwn.college): ![](https://geps.dev/progress/20)
-- [](kfs): ![](https://geps.dev/progress/1)
+- [asmtutor](https://github.com/l0w3/asmtutor_execices): ![](https://geps.dev/progress/8)
+- [pwncollege](https://github.com/l0w3/pwncollege): ![](https://geps.dev/progress/20)
+- [Kernel From Scratch](kfs): ![](https://geps.dev/progress/1)
 
-As a pentester and aspiring security researcher, I am loking towards applying all this skills to finding new bugs of way of exploiting the existing ones. That's why I also research about vulnerabilities and try to explain the research as well as the exploit path in a repo called (N-daysResearch)[]. Check it out if you want to see my knowledge applyed to real problems
-
+As a pentester and a security researcher I am constantly looking for new ways of exploiting systems and vulnerabilities. While learning all of above I apply it to real-live scenarios through exploiting N-Days or researching topics I am interested on. Below you can find some projects I am proud of having completed:
+- [CVE-2019-18634: Sudo privilege escalation]()
+- [Van Eck Interferences for monitor eavesdropping]()
+- [RFID card cracking and locker room DoS]()
+  
 ## Dev
 
-Before becoming a pentester, I was a hobby programmer, that's why many of my projects are pure code. I would not consider myself a coder, but I can code my own scripts and programs if it comes necessary at some point.
+My journey on Computer Science started as for many others with programming. I learned to code when I was 12 and since then, I coded almost everything I wanted to create. Below you can find a list of some of the projects I made over the years:
+- [STEM Fellowship HSBDC 2022](https://github.com/l0w3/STEMFellowship_Alex_Andrei)
+- [ACM - Music Classificator based on Spectrogram](https://github.com/l0w3/ACM)
+
+When I becam interested in cybersecurity I oriented my developpment towards it. Below are some repositoies with code oriented towards cybersecurity such as malware development, defensive tools, etc.
+- [Secure Folders](https://github.com/l0w3/SecureFolders)
+- [goEnum](https://github.com/l0w3/goEnum/blob/main/main.go)
+- [Process Injection](https://github.com/l0w3/process-injection)
+  
