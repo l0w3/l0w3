@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Low Level
 
-Lastly I've been very interested in learning about low level computer science, specially what revolves around Operating Systems and Hardware. For this purpose I am learning from the great tutorials from (asmtutor)[https://asmtutor.com/], the amazing labs of (pwn.college)[https://pwn.college/] and from the lectures (and book) [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
+Lastly I've been very interested in learning about low level computer science, specially what revolves around Operating Systems and Hardware. For this purpose I am learning from the great tutorials from [asmtutor](https://asmtutor.com/), the amazing labs of [pwn.college](https://pwn.college/) and from the lectures (and book) [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
 
 The following links will bring you to the repositories where I upload my work related to this resources
 - [](asmtutor): ![](https://geps.dev/progress/8)
