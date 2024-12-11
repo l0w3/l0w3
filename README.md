@@ -27,7 +27,7 @@ The following links will bring you to the repositories where I upload my work re
 
 As a pentester and a security researcher I am constantly looking for new ways of exploiting systems and vulnerabilities. While learning all of above I apply it to real-live scenarios through exploiting N-Days or researching topics I am interested on. Below you can find some projects I am proud of having completed:
 - [CVE-2019-18634: Sudo privilege escalation](https://github.com/l0w3/CVE-2019-18634)
-- [Van Eck Interferences for monitor eavesdropping]()
+- [Van Eck Interferences for monitor eavesdropping](https://github.com/l0w3/Van-Eck-Interferences)
 - [RFID card cracking and locker room DoS]()
 - [Web3 security audits - Codehawks](https://github.com/l0w3/codehawks-audit-reports)
 
