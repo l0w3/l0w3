@@ -23,12 +23,12 @@ Lastly I've been very interested in learning about low level computer science, s
 The following links will bring you to the repositories where I upload my work related to this resources
 - [asmtutor](https://github.com/l0w3/asmtutor_execices): ![](https://geps.dev/progress/8)
 - [pwncollege](https://github.com/l0w3/pwncollege): ![](https://geps.dev/progress/20)
-- [Kernel From Scratch](kfs): ![](https://geps.dev/progress/1)
+- [Kernel From Scratch](kfs): ![](https://geps.dev/progress/5)
 
 As a pentester and a security researcher I am constantly looking for new ways of exploiting systems and vulnerabilities. While learning all of above I apply it to real-live scenarios through exploiting N-Days or researching topics I am interested on. Below you can find some projects I am proud of having completed:
 - [CVE-2019-18634: Sudo privilege escalation](https://github.com/l0w3/CVE-2019-18634)
 - [Van Eck Interferences for monitor eavesdropping](https://github.com/l0w3/Van-Eck-Interferences)
-- [RFID card cracking and locker room DoS]()
+- [RFID card cracking and locker room DoS](https://github.com/l0w3/RFID-Hacking)
 - [Web3 security audits - Codehawks](https://github.com/l0w3/codehawks-audit-reports)
 
   
