@@ -29,7 +29,7 @@ As a pentester and a security researcher I am constantly looking for new ways of
 - [CVE-2019-18634: Sudo privilege escalation]()
 - [Van Eck Interferences for monitor eavesdropping]()
 - [RFID card cracking and locker room DoS]()
-- [Web3 security audits - Codehawks]()
+- [Web3 security audits - Codehawks](https://github.com/l0w3/codehawks-audit-reports)
 
   
 ## Dev
